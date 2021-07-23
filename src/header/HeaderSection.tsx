@@ -1,5 +1,5 @@
 import React from 'react'
-import CarouselSection from '../carousel/CarouselSection'
+import CarouselSection from './carousel/CarouselSection'
 import MenuSection from './MenuSection'
 
 interface IHeaderSection {
